@@ -1,0 +1,71 @@
+<!-- <head>
+<link rel="shortcut icon" type="image/x-icon" href="images/yourLogo.jpg" />
+
+<div class="header">
+   <a href="#default" class="logo">CompanyLogo</a>
+   <div class = "header-right">
+      <a class = "active" href="#home">HOME</a>
+      <a href="#contact">Contact</a>
+   </div>
+</div>
+<head> -->
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Header with logo and toggle theme</title>
+      <style>
+         header {
+            background-color: darksalmon;
+            padding: 10px;
+         }
+
+         nav {
+            background-color: lightcyan;
+            padding: 10px;
+         }
+
+         #timeline{
+            margin: 20px;
+            padding: 20px;
+            border: 1px dashed gray;
+         }
+
+      </style>
+   </head>
+   <body>
+
+      <header>
+         <img src="icon.png" alt="Logo" width="50" height="50">
+         <h1 style="display: inline;">Time Line App</h1>
+         <button>
+            Theme
+         </button>
+      </header>
+
+      <nav >
+         <span style="font-size: 24px; cursor: pointer;">&#9776;</span>
+         <input type="text" placeholder="Search Here">
+      </nav>
+
+      <main>
+         <section id="timeline">   
+            <article>
+               <h2>Event Title</h2>
+               <p>Description of the event</p>
+               <figure>
+                  <img src="event.jpg" alt="Event image" width="500"/>
+                  <figcaption>Caption: It is the dance event</figcaption>
+                  <summary>
+                     Summary: This is the summary about this event
+                  </summary>
+               </figure>
+            </article>
+         </section>
+      </main>
+      <div id="modal"></div>
+
+
+   </body>
+
+</html>
