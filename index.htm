@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Header with logo and toggle theme</title>
+      <link rel="stylesheet" href = "style.css">
+      <!-- <style>
+         header {
+            background-color: darksalmon;
+            padding: 10px;
+         }
+
+         nav {
+            background-color: lightcyan;
+            padding: 10px;
+         }
+
+         #timeline{
+            margin: 20px;
+            padding: 20px;
+            border: 1px dashed gray;
+         }
+
+      </style> -->
+   </head>
+   <body>
+
+      <header>
+         <img src="icon.png" alt="Logo" width="50" height="50">
+         <h1 style="display: inline;">Time Line App</h1>
+         <button class="theme_button">
+            Theme
+         </button>
+
+         <button class="eye_button">
+            EyeComfort
+         </button>
+      </header>
+
+      <nav >
+         <span style="font-size: 24px; cursor: pointer;">&#9776;</span>
+         <input type="text" placeholder="Search Here">
+         
+      </nav>
+
+      <main>
+         <section id="timeline">   
+            <article>
+               <h2>Event Title</h2>
+               <p>Description of the event</p>
+               <span class="event-marker"></span>
+               <figure>
+                  <img src="event.jpg" alt="Event image" width="500"/>
+                  <figcaption>Caption: It is the dance event</figcaption>
+                  <summary>
+                     Summary: This is the summary about this event
+                  </summary>
+               </figure>
+            </article>
+         </section>
+      </main>
+      <div class="modal"></div>
+
+
+   </body>
+
+</html>
