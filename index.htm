@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>Header with logo and toggle theme</title>
+      <link rel="stylesheet" href = "style.css">
+      <!-- <style>
+         header {
+            background-color: darksalmon;
+            padding: 10px;
+         }
+
+         nav {
+            background-color: lightcyan;
+            padding: 10px;
+         }
+
+         #timeline{
+            margin: 20px;
+            padding: 20px;
+            border: 1px dashed gray;
+         }
+
+      </style> -->
+   </head>
+   <body>
+
+      <header>
+         <img src="icon.png" alt="Logo" width="50" height="50">
+         <h1 style="display: inline;">Time Line App</h1>
+         <button class="theme_button">
+            Theme
+         </button>
+
+         <button class="eye_button">
+            EyeComfort
+         </button>
+      </header>
+
+      <nav >
+         <span style="font-size: 24px; cursor: pointer;">&#9776;</span>
+         <input type="text" placeholder="Search Here">
+         
+      </nav>
+
+      <main>
+         <section id="timeline">   
+         </section>
+      </main>
+      <div id = "modal" class="modal">
+         <div class = "modal-content">
+            <span class = "close">&times;</span>
+            <div id="modal-body"></div>
+         </div>
+      </div>
+      <script src="script.js"></script>
+   </body>
+
+</html>
