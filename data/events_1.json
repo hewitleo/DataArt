@@ -1,0 +1,56 @@
+[{
+    "event_id" : 1,
+    "event_place" : "Uttarakhand, India",
+    "event": "Dozens feared trapped as cloudburst triggers flash floods in India",
+    "event_category": "Disaster"
+},
+
+{
+    "year" : 2025,
+    "event_id" : 2,
+    "event_place" : "New Delhi, India",
+    "event": "PixxelSpace-led consortium to make country’s first commercial earth observation constellation",
+    "event_category": "Space"
+},
+
+{
+    "event_id" : 3,
+    "event_place" : "Nepal",
+    "event": "Nepal offers free climbs to 97 peaks as tourism to Everest surges",
+    "event_category": "Tourism"
+},
+
+{
+    "event_id" : 4,
+    "event_place" : "Spain, Portugal",
+    "event": "Flames near Madrid as wildfires burn across Spain and Portugal",
+    "event_category": "Disaster"
+},
+
+{
+    "event_id" : 5,
+    "event_place" : "Australia",
+    "event": "Meteor burns across Australian night sky",
+    "event_category": "Space"
+},
+
+{
+    "event_id" : 6,
+    "event_place" : "Indonesia",
+    "event": "6.5 magnitude earthquake strikes Indonesia’s West Papua",
+    "event_category": "Disaster"
+},
+
+{
+    "event_id" : 7,
+    "event_place" : "America",
+    "event": "US scientists explore no-melt ice cream using fruit compounds",
+    "event_category": "Science"
+},
+
+{
+    "event_id" : 8,
+    "event_place" : "America",
+    "event": "Trump administration moves to shut down NASA carbon monitoring missions   ",
+    "event_category": "Space"
+}]
