@@ -1,5 +1,24 @@
-Time Line Application ⏳
+# Time Line Application ⏳
 A fully responsive and accessible timeline application built with React and TypeScript. This project displays a series of events in a clean, modern interface, featuring a dark/light theme toggle and a detailed modal view for each event.
+
+# Project Screenshots
+
+## 🌞 Light Mode
+### Without Modal
+![Light Mode](./chrome_screenshot_1_light_mode.jpg)
+
+### With Modal
+![Light Mode with Modal](./chrome_screenshot_1_light_mode_with_modal.jpg)
+
+---
+
+## 🌙 Dark Mode
+### Without Modal
+![Dark Mode](./chrome_screenshot_2_dark_mode.jpg)
+
+### With Modal
+![Dark Mode with Modal](./chrome_screenshot_2_dark_mode_with_modal.jpg)
+
 
 ✨ Key Features & Screenshots
 This application includes a range of features designed for a great user experience and accessibility.
@@ -7,11 +26,9 @@ This application includes a range of features designed for a great user experien
 Light Mode	Dark Mode
 Main timeline view in light mode.	Main timeline view in dark mode.
 
-Export to Sheets
 Event Modal (Light)	Event Modal (Dark)
 Detailed event view in a modal.	Modal is fully themed for dark mode.
 
-Export to Sheets
 Dynamic Event Timeline: Events are displayed in a responsive grid that adapts to different screen sizes.
 
 Detailed Modal View: Clicking an event opens a modal with more information, including a description, category, and image.
@@ -43,13 +60,6 @@ TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
 CSS Modules / Plain CSS: For component-level and global styling.
 
 Vite: A modern frontend build tool.
-
-Bash
-
-cd your-repository-name
-Install dependencies:
-
-Bash
 
 npm install
 Start the development server:
