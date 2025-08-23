@@ -1,0 +1,67 @@
+[
+  { 
+    "id" : 1,
+    "year": 2025,
+    "title": "Flash Floods in Uttarakhand",
+    "description": "Dozens feared trapped as cloudburst triggers flash floods in Uttarakhand, India.",
+    "imageURL": "images/flood.jpg",
+    "category": "Disaster"
+  },
+  { 
+    "id" : 2,
+    "year": 2025,
+    "title": "PixxelSpace Earth Observation Constellation",
+    "description": "PixxelSpace-led consortium to make country’s first commercial earth observation satellite constellation.",
+    "imageURL": "images/pixxel.jpg",
+    "category": "Space"
+  },
+  { 
+    "id" : 3,
+    "year": 2025,
+    "title": "Nepal Peak Climbing Offer",
+    "description": "Nepal offers free climbs to 97 peaks as tourism to Everest surges.",
+    "imageURL": "images/trek.jpg",
+    "category": "Tourism"
+  },
+  {
+    "id" : 4,
+    "year": 2025,
+    "title": "Wildfires in Spain and Portugal",
+    "description": "Flames near Madrid as wildfires burn across Spain and Portugal.",
+    "imageURL": "images/wild_fire.jpg",
+    "category": "Disaster"
+  },
+  { 
+    "id" : 5,
+    "year": 2025,
+    "title": "Meteor Over Australia",
+    "description": "Meteor burns across the night sky in Australia.",
+    "imageURL": "images/metereor.jpg",
+    "category": "Space"
+  },
+  {
+    "id" : 6,
+    "year": 2025,
+    "title": "Earthquake in West Papua",
+    "description": "6.5 magnitude earthquake strikes Indonesia’s West Papua.",
+    "imageURL": "images/earth_quake.jpg",
+    "category": "Disaster"
+  },
+  {
+    "id" : 7,
+    "year": 2025,
+    "title": "No-Melt Ice Cream",
+    "description": "US scientists explore no-melt ice cream using fruit compounds.",
+    "imageURL": "images/ice_cream.jpg",
+    "category": "Science"
+  },
+  {
+    "id" : 8,
+    "year": 2025,
+    "title": "NASA Carbon Monitoring Shut Down",
+    "description": "Trump administration moves to shut down NASA carbon monitoring missions.",
+    "imageURL": "images/nasa_carbon.jpg",
+    "category": "Space"
+  }
+]
+
